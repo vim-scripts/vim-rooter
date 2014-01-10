@@ -1,13 +1,4 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4145
 
-See https://github.com/airblade/vim-rooter
-
-Rooter is a Vim plugin which changes the working directory to the project root
-when you open a file.
-
-More accurately, it'll do this when you open a typical webapp file.  These files
-are identified by their extension.
-
-The project root is identified by the presence of a DVCS directory.  Currently
-git, darcs, mercurial and bazaar are supported.
+Please see https://github.com/airblade/vim-rooter
 
